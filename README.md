@@ -7,7 +7,7 @@ A Spring Boot REST API that requires environment configuration for database conn
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/rajumb0232/spring-demo.git
+git clone https://github.com/Tejaskumar01/Blog-Post-Java.git
 cd spring-demo
 ```
 
